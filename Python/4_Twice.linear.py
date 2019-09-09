@@ -1,7 +1,7 @@
 import bisect
 from collections import OrderedDict
-def dbl_linear(n):
 
+def dbl_linear(n):
     cache = [1]
     i = 1
     counter = cache[i-1]
