@@ -1,1 +1,1 @@
-# Codewars.com
+Katas from codewars.com
